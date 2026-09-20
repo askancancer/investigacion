@@ -1,0 +1,3 @@
+Paralelismo: "Carpetas espejo", con la nueva adición del artificio 'Extensiones' se puede dar uso a esto... Básicamente es reflejar el estado de una
+carpeta ya existente (parcial o totalmente) o elementos. Entonces, esto se aplica a las extensiones que requieran una copia total o parcial de una
+carpeta de 'Operaciones' de otro punto de extensión.

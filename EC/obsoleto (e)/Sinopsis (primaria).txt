@@ -1,0 +1,15 @@
+Operativo:
+
+Estudio contiene: Pre universitario, Semi Universitario [alternativa superior] (Ejm fa: programación), Universitario, Miscelanea (Ejm fa: Adobe)
+
+*Cada carpeta está desarrollada dentro de sí misma*
+
+
+-
+
+
+En el disco duro externo: Meramente almacenamiento (Aunque es posible adjuntar alguna operación o sub-división de instrucciones.)
+
+> Anexo al objeto Conocimientos y Exp : Estudio ciéntifico; Estudio técnico
+
+(desactualizado)

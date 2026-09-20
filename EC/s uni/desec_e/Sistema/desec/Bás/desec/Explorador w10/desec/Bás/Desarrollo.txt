@@ -1,0 +1,32 @@
+Vamos a dividir en 2: Elementos y Artificios
+
+Elementos: Nos referimos a ciertos objetos recurrentes o bueno, usados cuando estamos operando y desarrollando asuntos en 'Operaciones'. (Ej: Bloc de
+notas, carpetas, registros, etc).
+
+Artificios: Cualquier otro truco que nos ayude a improvisar de manera sustancial nuestro desarrollo y operación. He de decir que los elementos en sí
+se les va a incluir sus propios artificios, en esta carpeta solamente vamos a incluir los generales o los que aplican a la mayoría.
+
+-
+
+Se introduce la carpeta 'Herramientas' que de cierta forma reemplaza a los artificios que se ubican en los elementos en sí. Se diferencian de esos
+mismos artificios porque además de centrarse más en los elementos (cosa que ya se ha visto), poseen ciertas condiciones que puestas juntas;
+se puede aplicar dicha herramienta.
+
+Para esta misma fecha 28/5/25 esto es algo experimental, cualquier cambio realizado puede ser revertido sin muchos problemas con la herramienta
+'Backup' (más info en 'Herramientas', pero no realizado aunque; ha salido bien (creo) ).
+
+Vamos a introducir también los siguientes tipos de artificios y herramientas: Emisión y conjuración.
+
+Los artificios/h. de conjuración se trata de crear objetos/elementos que disponen de la funcionalidad/características del artificio/herramienta en sí.
+Los de emisión en cambio, no crean si no que esa funcionalidad/características se emplea (se separa) hacía un objeto/elemento en concreto ya existente.
+
+Se introduce la transmutación: que puede fungir de emisor y conjurador simultaneamente o en distintos intervalos.
+
+En el mismo desarrollo de cada herramienta o artificio se va a específicar si su variante, pero también se va a hacer una lista (tanto en H como en Ar.
+) seleccionando el tipo o variante que le corresponde.
+
+-
+(29/2/25)
+Cuando hablamos de 'condiciones' como su nombre lo dice, es para activar la herramienta, pero también lo vamos a implementar en los artificios. Siendo
+que tanto herramientas como artificios requieren de condiciones para activarse (Actualizar cuando vayas de paso, por favor). y también
+QUE LAS HERRAMIENTAS SON PARA UN ELEMENTO COMO TAL, MIENTRAS QUE LOS ARTIFICIOS ABARCAN MÁS DE 1 ELEMENTO A LA VEZ.

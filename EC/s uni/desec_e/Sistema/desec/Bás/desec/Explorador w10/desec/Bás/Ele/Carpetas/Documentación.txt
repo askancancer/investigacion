@@ -1,0 +1,5 @@
+Puedee venir con otro nombre parecido (ej: registro) aunque estoy seguro que las definiciones reales difieren, la función de este tipo de carpetas
+es documentar/registrar o básicamente almacenar en el transcurso del tiempo cierto tipo de elementos o objetos que aparecen y que requieren orden =
+se les asigna una respectiva carpeta de documentación de ser necesario (ej: anexos).
+
+A diferencia de la lista, no necesariamente se trata de almacenar 'tales' a mansalva. La lista es algo más para denominar.

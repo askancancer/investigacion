@@ -1,0 +1,6 @@
+Bases:
+ Base 1: Pre uni
+ Base 2: admisión uni
+
+
+ 

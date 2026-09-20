@@ -1,0 +1,8 @@
+Cómo su nombre lo dice: el contexto en las universidades del Perú (más específicamente de Lima, obvio) y puede abarcar varios puntos. Cosas más técnicas
+o de mayor utilidad no irián acá pero ciertamente pueden aparecer referenciadas o algo así (Ejm: hospedaje en la uni) y algo que debemos especificar es
+con la carreras es que el tema de <carreras universitarias> poseen sus propia carpeta pero aquí podría ir carreras referenciadas con respecto a una uni.
+ya sabes calidad y esas mierdas.
+
+Aquí también van institutos o cualquier otro "equivalente" y recuerda: Una cosa son universidades de un país pero alrededor del globo es otra cosa,
+en todo caso podría haber otra carpeta para <ESO> si se da la ocasión.
+

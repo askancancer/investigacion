@@ -1,0 +1,34 @@
+Vamos a usar signos y abreviaturas. El signo principal viene siendo = que da a entender una equivalencia. Como sea, signos y las palabras/abreviaturas
+son distintos así como ambos son factores para la equivalencia en sí.
+
+Condiciones para adaptar una palabra a una equivalencia. 1. Tener 2 palabras/abreviaturas (No necesariamente ambas tienen que ser del mismo tipo si
+llega a pasar, a su vez, no importa el orden pues se puede interpretar tanto de izquierda a derecha *palabra y abreviatura* tienen una relación
+univoca)
+
+2. Emplear los signos adecuados según la equivalencia que quieras formar.
+
+-
+Documentación: Equi. totales.
+
+Recuerda que una palabra en sí puede llegar a tener multiples equivalencias según el contexto, extensión o por la palabra en sí (ejemplo: Ins. = 
+instrucciones, inspección, inscripción, etc). Por lo que se va a emplear otro signo principal que es () y va a enumerar la cantidad de equivalencias
+que posee una palabra/abreviatura. De ahí tenemos que a una palabra le corresponde otra palabra o un conjunto de palabras en la equivalencia.
+
+Por eso en caso de ser conjunto de palabras, se hace el uso de ( ) con el artificio 'enumeración', Los elementos del conjunto de las palabras con
+la otra palabra pueden formar equivalencias totales o parciales.
+
+Equi. parciales.
+
+Se aplica casi lo mismo que en Equi. totales pero la diferencia es por cada equi. par. se menciona que extensiones usan dicha equivalencia parcial
+Con respecto a las equivalencias totales y parciales, se va a enumerar cada equivalencia pero el orden (digito) le corresponde a la especie que
+corresponda (va a dejar un vacio en la otra especie, simplemente llenar con que está en la otra especie). Con respecto a conjunto de palabras, 
+utilizar prefijos.
+
+-
+
+Antes de seguir, quiero dar a entender que
+las abreviaturas no reemplazan las palabras, es una forma de referirse a ellas a la hora de nombrar elementos/objetos/acciones/etc ya existentes
+en 'Operaciones'.
+
+Con respecto a las equi. parciales, vamos a crear la carpeta 'E' y en ella documentar por separado cada extensión con sus respectivas Equi. par.
+y enumerar las digitos de las equi. que usan + adjuntar copia y pega de las equivalencias (en el word principal).

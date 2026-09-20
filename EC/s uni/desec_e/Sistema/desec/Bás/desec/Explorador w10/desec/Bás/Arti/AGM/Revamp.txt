@@ -1,0 +1,12 @@
+Revamp: "Revamp" and "rework" both mean to change or improve something, but "revamp" often implies a more extensive, comprehensive change, 
+while "rework" suggests a focused effort to correct or improve specific aspects (De Google). He de decir que retrabajar (rework) y modernizar
+(revamp) a leguas se nota la diferencia entre complejidad, puesto que modernizar algo, es un proceso largo y que se ve mucho en la historia.
+
+Usualmente puede involucrar (desde 'Operaciones' hasta la ubicación actual) pequeñas o grandes escalas y pueden involucrar hasta un cambio completamente
+nuevo y no antes pensado (como es obvio).
+
+La manera de proceder es en base a la experiencia (por ahora) pero la premisa ya se ha establecido.
+
+Condiciones. 1. Tener la necesidad de remodelar/cambiar todo, ya sea porque es un prototipo y hemos descubierto nuevas maneras para proceder; ha
+quedado desfasado; se debe reorganizar/cambiar; etc. Pero esas son las razones más comunes usualmente.
+2. (opcional) hacer un backup antes de proceder.

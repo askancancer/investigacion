@@ -1,0 +1,19 @@
+Colidir: Usualmente se aplica con carpetas que estén en el mismo rango, se refiere a una conexión o desarrollo que implica varias características en
+común entre esas (2) carpetas pero la más notoria y la más probable es que su desarrollo/operar sea el mismo (Ej de las carpetas del protocolo, 4 y 5)
+
+También se puede dar como 2 en 1 o 1 en 2. Como dije, usualmente es con carpetas que estén en el mismo rango.
+
+-
+
+Fecha: Puede ser aplicado hasta en los mismos archivos, sirve como forma de denotar y ver la continuidad/orden con mayor claridad. Es usualmente un
+detonante para un futuro 'Revamp' o derivados (actualización, cambio, etc).
+
+-
+
+Enumeración: Es simple, se encarga de enumerar (Depende de ti si el orden importa o no)
+
+-
+
+Paralelismo: "Carpetas espejo", con la nueva adición del artificio 'Extensiones' se puede dar uso a esto... Básicamente es reflejar el estado de una
+carpeta ya existente (parcial o totalmente) o elementos. Entonces, esto se aplica a las extensiones que requieran una copia total o parcial de una
+carpeta de 'Operaciones' de otro punto de extensión.

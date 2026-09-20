@@ -1,0 +1,29 @@
+Últimamente hemos aplicado esto muy seguido, puede venir con otros nombre como "Prueba", "Simulación" o hasta 'Experimental'
+
+
+No hace falta decir que en la practica, son definiciones alejadas (ver wikipedia/rae) pero la finalidad es la misma: probar
+y desarrollar mientras que en el proceso este 'protocolo' puede estar obsoleto o adaptarse mediante los cambios... Sea como sea, se podría decir
+que es la versión preliminar en la que podemos hacer 'revamps', desarrollo en los que hay variables, desechar este mismo prototipo o adaptarlo si
+lo consideramos como completado. Vamos, que es el concepto de prototipo clásico.
+
+Cómo proceder? Hasta la fecha 31/3/25 no hemos estudiado a fondo lo que viene siendo 'Sistemas' o 'Información'. Por lo que su proceder es por la
+experiencia que poseemos (por el momento).
+
+Prototipo se denota con (p) pero si es posible, específicar por la existencia de posibles 'equivalencias'.
+
+-
+
+Una vez terminado un prototipo, puedes desecharlo o establecerlo si lo crees convieniente. Sea como sea, debe informarse en el desarrollo... Si se
+establece, deja de ser un prototipo.
+
+ Razonamientos adyacentes:
+
+Experimental(es): Bajo nuestro contexto, es uno de los componentes de lo que viene siendo el 'prototipo' (Un experimento en sí es un procedimiento
+para refutar o avalar una hipotésis), esto incluye elementos/objetos o hasta más cosas relacionadas. En nuestro contexto, viene siendo esas misma
+maquinación que es en base a nuestras experiencias.
+
+-
+
+Condiciones: 1. Crear una sandbox (usualmente es el molde/origen de todo) para luego desarrollar ESO EN CUESTIÓN
+2. Otorgarle el nombre de prototipo si crees que este mismo desarrollo posee una posible obsolencia programada; está incompleto total/parcialmente;
+no es la forma final; etc. 

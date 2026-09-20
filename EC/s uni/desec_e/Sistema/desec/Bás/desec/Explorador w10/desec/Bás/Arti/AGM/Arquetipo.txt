@@ -1,0 +1,12 @@
+https://es.wikipedia.org/wiki/Arquetipo. Un arquetipo (del griego αρχή, arjé, ‘fuente’, ‘principio’ u ‘origen’, y τυπος, tipos, ‘impresión’ o ‘modelo’)
+ es el patrón ejemplar del cual se derivan otros objetos, ideas o conceptos.
+
+Y una definición(ones) similar en la RAE. Como el concepto lo dice, hasta podrías mencionar que forman parte de un elemento llamado 'Obsoloto' y
+es cierto, de una tal estructura se derivan operaciones que mejoraron nuestra condición. El uso de este mismo se podría mencionar que es como un
+'sandbox' pero cuando pasa a ser un precedente para los modelos actuales, simplemente queda como 'arquetipo'. Después de reconocer a uno, favor
+de específicar al ponerlo en una carpeta de 'Obsoleto'
+
+Condiciones: 1. Diferencia entre 'arquetipo' y 'obsoleto' es que aunque ambos cumplen la misma función de almacenar lo desfasado, el arquetipo sirve
+como referencia y por eso; primero tenemos que pensar en modificar/cambiar/revampear el elemento/objeto en sí
+
+2. Una vez con esa idea, conjurar una carpeta llamada "Arquetipo" y almacenar este mismo modelo/objeto y al momento de hacerlo se considera 'arquetipo'

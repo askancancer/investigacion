@@ -1,0 +1,16 @@
+Anexo: Antes, lo hemos definido como paralelo... Pero su definición más antigua y la que vamos a seguir usando es básicamente hacer una partición del
+desarrollo que queremos desarrollar... Es decir, como si fueramos a desarrollarlo en 2 lados diferentes.
+
+Diferenciar entre 'desarrollo' del objeto al que le hacemos un anexo y desarrollo del anexo...
+
+Esto mismo se ha usado cuando en 'EC' se hizo un 'anexo' al disco duro externo. Esto nos deja con 2 alternativas (depende de la compl-
+ejidad): Anexo propio (creado y por ende, con cierta independencia en el mismo desarrollo del anexo) y anexo impropio (creado dentro de un objeto ya
+existente *solamente sirve como propiedad*... Más info en 'Anexo'.
+
+Actualización 2/4/25: Con respecto al concepto de 'propio/impropio' se va a aplicar en los puntos de anexos y no en el anexo en sí. Aunque pues, es
+meramente intuitivo y no hace falta pasarlo (por ahora). Solamente piensa en el 'dominio'.
+
+-
+
+Condiciones: 1. Tiene que ocurrir la necesidad de hacer una partición del desarrollo que queremos desarrollar (desarrollarlo en 2 lados diferentes).
+Sea un punto de anexo simple/compuesto o impropio-propio y sea este el origen o llegada.

@@ -1,0 +1,32 @@
+Consiste en el registro/documentación de los temas que aparecen, el material usado, subtemas que aparecen, palabras nuevas que aparecen (glosario/léxico)
+en el desarrollo de un tema en cuestión. El modelo se encuentran tanto en físico como en virtual.
+
+
+13/1/25 se hizo una reforma a la misma estructura y concepto: Se ha añadido un Molde (finalmente) y de aquel molde
+pues nos dimos cuenta que no ha sido lo mejor así que hemos venido con una nueva forma de estructura y documentación en sí:
+
+Cuando nos referimos a un tema como tal según el patron del temario definitivo (Más información en el mismo) pues tenemos
+al tema principal y del tema principal tenemos 4 productos posibles:
+
+TA Temas Adicionales
+STA Subtemas Adicionales
+TAP Temas Adicionales Paralelos
+STAP Subtemas Adicionales Paralelos
+
+-
+
+También con respecto al desarrollo pues vamos a llevarlo en la documentación (tiempo real) y ordenado en base a parrafos
++ especificación de barras
+
+Ej:  Introducción
+         (1.1) Origen, Concepto
+         (1.2) Definición
+
+-
+
+Un concepto insurgente y reciente: Ultimado
+Consiste en un set poco de materiales y básicamente en teoría es lo mejor de lo mejor (Aunque no siempre pueda ser así)... Esto coincide con el Codice
+(El cual ha recibido su reforma también)
+
+Otro concepto interesante es el de semana o soberanía del temario definitivo el cual se explica mejor en el mismo desarrollo del 'temario definitivo'
+pero en resumen pues esto le va a seguir al juego a la documentación y los circundantes como glosario y etc.

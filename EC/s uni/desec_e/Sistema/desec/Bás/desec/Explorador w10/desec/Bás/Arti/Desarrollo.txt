@@ -1,0 +1,18 @@
+Un artificio no necesariamente involucra hacer uso de un elemento en sí para posteriormente hacer el artificio, si no que también puede estar
+dentro (p. ej: enumeración) o fuera (p. ej: contenido en el protocolo) del elemento en sí.
+
+Con respecto al artificio 'Omnipresencia' se le colocado como desfasado y las razones son que hemos implementado el artificio más como una
+propiedad de 'Operaciones' para mayor facilidad al acceder. Hablando de eso, la carpeta 'Artificios' va a ser omnipresente pseudocontenido parcial
+a la espera de cambios.
+
+-
+
+Desde ayer (29/2/25) se ha cambiado los artificios como que abarcan más de 1 elemento a la vez. Lo que deja la clasificación de artificios obsoleta con
+respecto a la adición de las 'herramientas'. Eso nos obliga a remodelar todo en sí (Desde la clasificación de elementos hasta la posición de los
+mismos artificios).
+
+En la misma carpeta que nos contiene se ha explicado que tanto herramientas como artificios tienen condiciones pero que H abarca 1 elemento y
+A más de 1 pero Artificios tiene distintos tipos según los lugares que se abarcan y complejidad. Algo que hemos olvidado es el concepto de
+'emisión' y 'conjuración' que se van a aplicar en las herramientas también... A su vez, se introduce una nueva variante que es la 'transmutación'
+que puede fungir de emisor y conjurador simultaneamente o en distintos intervalos.	
+

@@ -1,0 +1,9 @@
+Vamos a añadir a cada elemento y subelemento de la carpeta de la carpeta "Elementos" (en forma de carpetas). Pero no vamos a poner al desarrollo de
+ los elementos en cuestión también, si no las herramientas en sí (Por separado).
+
+... 29/3/25 (10:44 p.m.) Cambio de planes: Solamente vamos a adjuntar las herramientas por separado y en cada una de ellas se le va a relacionar
+con el elemento correspondiente. También recuerda específicar el elemento al que vamos a emplear dicha herramienta. Si involucra multiples, solamente
+haz el favor de pasarlo a Artificio.
+
+También mencionar si es emisor, transmutador o conjurador en la 'lista'. Ahora algo nuevo desde antes es que tanto herramientas como artificios poseen
+condiciones para activarse. La única diferencia radica pues que las herramientas ocupan 1 elemento mientras que los artificios más de 1 elemento.

@@ -1,0 +1,5 @@
+Para empezar, tenemos que considerar que lo que consideramos como sistema... Es mucho más complejo y por lo tanto, aplica a nuestro contexto actual.
+Se podría decir que todo forma parte de un sistema, sea congruente o no. Vamos a considerar esto como un "prototipo" puesto que no tenemos a la mano
+el entendimiento exacto de la sistematización (Por ello consideramos un desarrollo 'inicial').
+
+Vamos a dividir en partes: Básico y avanzado

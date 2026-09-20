@@ -1,0 +1,11 @@
+Entonces usualmente el protocolo normal de aplicación es el siguiente: Una vez tienes la documentación completada de un tema
+principal solamente vamos a sacar los temas y subtemas producidos, como dijimos anteriormente en la introducción
+
+Eso mismo lo vamos a distribuir en 4 partes: Temas Adicionales, Subtemas adicionales, Temas Ad Paralelos, Subtemas Ad Paralelos
+
+Ahora usualmente la parte más díficil es la paralelidad puesto que hay variantes: Paralelo entre uno de los indices de su
+mismo especie (Ejemplo: Filosofía 1.1 con Etimología *RV* (subtema))
+
+o de diferente especie (Si es de mat, entonces con letras y viceversa) (Ejemplo: álgebra 1.1 con Lógica *Filosofía* (tema)).
+En todo caso debes especificar siempre en este tipo de casos (De igual forma en la documentación, obvio).
+

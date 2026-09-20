@@ -1,0 +1,12 @@
+En el método de estudio actual vamos a agarrar una antigua carpeta "3 Prospecto UNI" y vamos a tomar partes de ella para formar: Un temario toma lo mejor
+de UNI y San Marcos, en matemáticas: es la improvisación de la admisión y la guía del estudiante de CEPRE pero que hace esto diferente (Porque a simple
+vista se ve solamente converger 2 elementos y pues tanto en matemáticas como letras
+
+Vamos a tomar en cuenta la documentación (Puesto que se van a presentar temas o subtemas adicionales) y el registro anexado a ambos (Esto ya propio
+del desarrollo del registro pero es importante mencionarlo), Básicamente en el temario def. no solo van a estar temas de la cepre o de admisión si no
+también los que vayamos a ver en el desarrollo/documentación. También pues que el temario def se divide en 2 y esas 2 partes comparten las características
+ya mencionadas y por mencionar: Temario matemático y Temario de Humanidades
+
+La gran diferencia es que en el temario de humanidades vamos a agarrar 5 elementos: Cepre uni, cepre sm, admisión sm, admisión uni, savia silabo... Aunque
+es posible que con el temario matemático entren algunas cosas de la San Marcos si encontramos algo peculiar pero eso no es tan probable así que pues
+solo sabemos que en el temario mate. solamente está cepre uni y uni.

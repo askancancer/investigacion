@@ -1,0 +1,4 @@
+Hay que ver el concepto inicial de sistema (por ahora): Un sistema es un grupo de elementos interactuantes o interrelacionados que actúan según un
+conjunto de reglas para formar un todo unificado.
+
+Si te das cuenta, todo 'Operaciones' es como un sistema en sí. Y dentro de los elementos del sistema hay más sistemas menos o hasta más complejos.

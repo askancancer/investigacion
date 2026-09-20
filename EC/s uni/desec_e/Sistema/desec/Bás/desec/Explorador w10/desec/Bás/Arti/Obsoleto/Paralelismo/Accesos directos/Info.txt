@@ -1,0 +1,27 @@
+Aclaración: si a = habilidades (variable prop), su nombre se ha establecido en un registro de paralelismo principal... Por lo que los paralelismos
+secundarios a la hora de realizarlos, los nombres de los variables proposicionales que se dan están establecidos por el paralelismo principal (Con
+excepción si es externo, en tal caso es un nombre que solo funciona en dicho conjunto producto/paralelismo principal)
+
+
+Si es principal:
+
+Variables proposicionales: establecer todas las relacionadas (con la dirección del explorador, sean internas o externas) al conjunto producto: Primero
+llenando la clasificación para posteriormente adjuntar los accesos directos con los respectivos nombres de las variables proposicionales
+
+ej: a = Habilidades (adjuntar dirección) -> Acceso directo(a)
+
+(Recuerda que el nombre varia según el conjunto producto, por lo que es importante revisar de todas formas el paralelismo principal de cada conjunto
+producto).
+
+Formulas proposicionales: Como hablamos de un principal (conjunto producto), entonces todas las formulas proposicionales que le conciernen al conjunto
+producto del que nos referimos se documentan (con un folder) -> en el folder se coloca el nombre del paralelismo 
+
+-
+
+Si es secundario:
+
+Variables proposicionales: establecer todas las variables proposicionales relacionadas (con la dirección del explorador, sean internas o externas) a su
+partida o llegada: Primero llenando la clasificación para posteriormente adjuntar los accesos directos con los respectivos nombres de las variables
+proposicionales
+
+(Recuerda que el nombre varia según el conjunto producto, por lo que es importante revisar

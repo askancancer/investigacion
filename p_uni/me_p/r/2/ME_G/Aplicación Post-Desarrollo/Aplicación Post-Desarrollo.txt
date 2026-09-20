@@ -1,0 +1,27 @@
+Generalizado (Matemática y Letras) Entonces por cada tema (Ejm: 1.1 de Geometría) tenemos que tener un cierto titulo o <eje>, en este caso vamos a escoger
+el temario de la CEPRE UNI y con ello el empleo de números hasta el decimal .2 y en el caso de humanidades solamente con números naturales.
+
+Por cada tema vamos a tener cierta cantidad de material (Ejm: El libro de construcción de triángulos puede no venir en álgebra, obvio) y aquí tenemos
+ciertas situaciones: Libros suficientemente buenos? Diferentes definiciones? (Y eso que no solamente definiciones)
+
+> Libros suficientemente buenos: Este tema no solamente abarca material pre universitario si no contenido más especializado (rozando lo universitario) o
+todavía más especializado. Ten en cuenta que estamos en una fase temprana ASÍ QUE NO VAMOS A RECAVAR LIBROS MÁS AVANZADOS, SOLAMENTE LOS QUE ENCONTRAMOS
+CON MAYOR FACILIDAD (Al menos es así en teoría, en humanidades se recalca más esto).
+
+>Definiciones diferentes: Bueno no solamente eso, si no también teoremas, formulas, etc. Aunque lo más plausible son las <definiciones>. Ahora nuestro
+consenso actual es... 1-11
+
+---------------------------------
+
+Actualización: La documentación se hace en whatsapp para pasarlo de manera más rápida a computadora (No sin antes pasar por el bloc de notas si estás en 
+celular, al finalizar: recién se envia al chat de grupo correspondiente)... De igual manera con los códices... 12
+
+---------------------------------
+ 
+Entonces el códice va a servir para consultar material y así ayudar con el desarrollo (Ya que en el desarrollo está la especificación o capitulación de
+materiales y tal) mientras que la documentación es más de registro como se dijo antes.
+
+
+
+
+

@@ -1,0 +1,6 @@
+Tenemos diferentes objetos de estudio como: estudio preuniversitario, semi universitario, universitario y etcetera. Cualquier objeto lo vamos a colocar
+en una 'lista' para luego dar sus conceptos adyacentes que reflejen lo que es el objeto en sí, porque para el objeto en sí mismo se desarrolla
+a dentro (siempre está la posibilidad de artificios, anexos y etc).
+
+Honestamente, esto es una definición un tanto improvisada porque a la fecha de esto (3/4/25) no sabemos lo que es la ciencia en sí o otros
+conceptos adyacentes como su filosofía o enseñanza.

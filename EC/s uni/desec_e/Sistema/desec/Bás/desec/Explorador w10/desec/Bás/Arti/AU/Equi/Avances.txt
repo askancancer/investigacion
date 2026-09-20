@@ -1,0 +1,9 @@
+Introducción de 'conjuntos', contiene más de 1 equivalencia (sea total o parcial, usualmente todos los elementos son de una misma especie pero no
+se descarta esa misma posibilidad de mixtura). El propósito es facilitar a la hora asignar el uso de ciertas equivalencias a extensiones.
+ -Estos conjuntos pueden tener un nombre, introducción/explicación y la presentación de los elementos que conforman dicho conjunto.
+ -También puede darse la posibilidad de subconjuntos.
+
+-
+
+Propuesta: Equivalencia (general) dividida en 2: Equivalencias de interpretación y equivalencias formales. Pero por falta de conocimiento, no se puede
+realizar (ej: rae).

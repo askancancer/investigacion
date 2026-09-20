@@ -1,0 +1,7 @@
+En la introducción 'Detalles y intro 1-2' de 'Operaciones'. He de admitir que solamente hemos presentando de manera indirecta lo que es la introducción
+y el desarrollo a la hora de hacer operar y desarrollar algo. (He de dicir que la 'Introducción' y 'Desarrollo' usualmente presentados en un bloc).
+
+Pero a la hora de hacer esto (18/3/25) hemos considerado varias cosas, incluyendo la continuidad y el orden, nos vemos obligados a introducir o mejor
+dicho, reconocer ciertos "elementos" a la hora de utilizar la carpeta de 'Operaciones'.
+
+Se van a tomar en cuenta varias cuestiones como: Elementos, Artificios, etc.

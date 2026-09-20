@@ -1,0 +1,5 @@
+Como su nombre lo dice, nos puede servir de utilidad al estar aislados la mayor parte del tiempo o también para proveer información... En cuyo caso 
+esto es más psicológico ya que si nos vamos a otros campos pues tenemos: realidad nacional, desventajas de la pobreza y etc que pueden abarcar o tener
+su propia carpeta.
+
+En cualquier caso vamos a dividir el desarrollo según la númeración en el registro del material para hacerlo más cómodo.

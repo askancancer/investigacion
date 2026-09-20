@@ -1,0 +1,6 @@
+Entonces, que nos impide de utilizar ciertas objetos del 'Bloc de Notas' con otro elemento como 'Carpetas'? Tendría poner otra objeto que abarque
+de tal manera ciertos objetos transversales?
+
+No, en sí en el "Desarrollo" de la carpeta anterior (2 Básico-de...) hemos dejado en claro que se tiene en cuenta la recurrencia, mas no la exactitud
+o linealidad. Aunque se presente la oportunidad algún día de intercambiar roles, se pueden aplicar las mismas condiciones o artificios de todas
+formas.

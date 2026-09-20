@@ -1,0 +1,5 @@
+Hemos desarrollado dos carpetas adicionales: 'horario' y Método de estudio (generalizado) = ME (g)
+
+Por temas de ruta (31/3/25) hemos decidido hacer abreviaciones a ciertas carpetas.
+EC = Estudio científico
+ET = Estudio técnico

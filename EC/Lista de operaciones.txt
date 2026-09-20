@@ -1,0 +1,11 @@
+Hemos creado el anexo entre 'Estudio cientifico' y el disco duro externo actual (Más info en 'Anexo 1')
+
+p uni = Preuniversitario : Intuitivamente se refiere al estudio pre-universitario
+
+s uni = semi uni (alternativas superiores/iguales a uni) : Son estudios/enseñanzas o derivados que pues, se equiparan o superan lo que una universidad
+o centro de estudios reconocido o en la misma que estamos nos ofrece a diferencia de la carrera que estamos estudiando (ej: microprocesamiento).
+
+uni = universitario : Esto es referente a las carreras en la universidad o centro de estudio a la que pertenecemos (o no pertenecemos) y a la carrera
+ que estamos estudiando. Por lo general, se debe equiparar a ese mismo rango.
+
+Misc = Misceleanea : Usualmente es inferior a lo que viene siendo s uni/uni, siendo que son provisionales o como suplementos (ej: adobe).

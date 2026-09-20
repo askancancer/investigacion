@@ -1,0 +1,8 @@
+Con respecto a rutas en las que se basan dichas equivalencias, el problema es que por lo menos 1 palabra va a estar desfocalizada aunque eso no es
+necesariamente un obstaculo (puesto que la otra tiene un origen o un propósito). La realidad es que es cuestión de practicidad y no es muy práctico.
+
+-
+
+Es probable que con el tiempo, una que otra equi quede desfasada o sea eliminada. Entonces el digito perteneciente queda desfasado para escatimar
+tiempo; solamente seguir con el conteo. En tal caso se emplea la herramienta 'Obsoleto' para documentar dichos digitos/equivalencias desfasados (que se
+eliminan de la lista y pasan a obsoleto).

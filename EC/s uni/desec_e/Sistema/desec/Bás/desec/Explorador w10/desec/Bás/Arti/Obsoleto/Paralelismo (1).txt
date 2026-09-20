@@ -1,0 +1,32 @@
+Variable proposicional + Partida/Llegada (Sea la R.B principal o secundaria):
+
+(De ser principal) Partida y llegada del conjunto producto:
+
+Formula proposicional correspondiente (sea partida o llegada, 2da verificación) + Inmutable o mutable:
+
+Según la complejidad (sea la R.B principal o secundaria):
+
+Según la importancia:
+Aclaración:::Usualmente el paralelismo principal no posee enumeración, mientras que los paralelismos/r.b secundarias si poseen enumeración (ej:
+paralelismo secundario 5)
+
+ -Si es secundaria, establezca si es superior o inferior + si es interno o externo
+ -Si es secundaria, solamente establezca todas las R.B secundarias (sean internas o externas) que se relacionen con su partida o llegada y con su
+respectiva formula proposicional
+   Secundarias superiores.-
+   Secundarias inferiores.-
+ -Si es secundaria, establecer todas las variables proposicionales relacionadas (sean internas o externas a su partida o llegada)
+ -Si es principal, enumerar todas las R.B secundarias (sean internas o externas) y con su respectiva formula proposicional que se relacionen con el
+conjunto producto
+ -Si es principal, establecer todas las variables proposicionales relacionadas (sin la dirección) (sean internas o externas al conjunto producto)
+-
+
+Fragmentación:
+ Acceso directos (Con respecta a su partida o llegada)
+ Elementos que se menciona este paralelismo o derivados (Adjuntar acceso directo)
+
+-
+
+Naturaleza-Introducción:
+
+Características:

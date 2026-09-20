@@ -1,0 +1,3 @@
+Tanto en 'Herramientas' o 'Artificios' es probable que en uno de sus componentes se presente unas 'rutas' que son distintas formas de operar dicha
+herramienta o artificio (Primera vez en la herramienta 'novedades'). En tal caso, a cierta ruta le corresponde condiciones diferentes y enumeración
+para ordenarlas.

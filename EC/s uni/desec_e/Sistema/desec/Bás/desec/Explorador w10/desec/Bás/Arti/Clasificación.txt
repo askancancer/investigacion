@@ -1,0 +1,11 @@
+Vamos a clasificar con carpetas: Artificios universales, a. transversales, a. de gran magnitud
+
+AU = Artificios universales: Concurren/se operan en un solo punto/lugar y/o su complejidad no es la gran cosa/no es muy compleja (independientemente de
+las condiciones)
+
+
+AT = Artificios transversales: Concurren/se operan en varios puntos/lugares diferentes a la vez (ej: anexo) y/o su complejidad superior/compleja 
+que la de AU (independientemente de las condiciones)
+
+AGM = Artificios de gran magnitud: Sea AU o AT, implica que al aplicarse, desencadena una gran cantidad de artifios, herramientas, elementos o
+desarrollo en general a diferencia de los AT o AU. Podría decirse que AT se acerca más a esta clasificación.

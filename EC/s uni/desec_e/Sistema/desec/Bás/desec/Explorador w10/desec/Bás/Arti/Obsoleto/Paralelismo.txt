@@ -1,0 +1,74 @@
+Paralelismo: Al principio lo iba a poner como transversal pero, resulta que dichas acciones desembocan más cambios y por ende, probablemente más
+artificios de lo esperado. Básicamente se trata de establecer una conexión entre carpetas de diferente jerarquia/conjunto (Ya sea por más adentro o por
+más afuera) e incluso entre espacios de almacenamiento (ejemplo: material de estudio conectado con el disco duro extero). He de decir que el parale-
+lismo se puede realizar en un elemento o dentro de un elemento (No es lo mismo en el 'desarrollo' que un bloc de notas aparte). 
+
+El paralelismo en si tiene diferentes naturelezas: Almacenamiento, Dar y solamente dar, Tomar y solamente tomar, codependencia, etc. Y cabe aclarar
+que no posee un 'desarrollo' como tal... No importa la complejidad, la función del paralelismo es como tal, su definición y lo que se desprende ya
+le corresponde al desarrollo de las mismas carpetas/elementos.
+
+ Características: Usualmente es para almacenar pero con el tiempo, sabíamos que iba a tomar algo más de relevancia. Hasta la fecha (20/3/25) hemos 
+                  implementado dos conceptos que se complementan entre sí: acceso directo y entrada-salida y estos dan paso al 'conjunto producto'
+                  + otros.
+
+  -Acceso directo: Salido de SH>Compendio>Intro. Y entre los 2 puntos de conexión en él que se ha realizado el paralelismo se va a colocar acceso
+                   directos de mutuo alcance 
+  -Fragmentación: Consideremos el "desarrollo del paralelismo" y los 'accesos directos' como formas más frecuentes de fragmentación... Entonces ten en
+                  cuenta que es posible que haya una bifurcación en los 2 puntos de conexión (p.ej: De los 2 puntos 'Protocolo'-Skill Hunter>Habilidades
+                  tenemos que el acceso directo se divide en 2 (para los objetos 4 y 5 pero eso es irrelevante).
+  -Relación(es)  binaria: Entre los 2 puntos de conexión (ya preestablecidos en el desarrollo del paralelismo) se tienen 2 aspectos: Partida-llegada y
+                          propiedades... Pero es que primero se establece un 1ra relación binaria (principal) para luego dar paso a más variantes de
+                          relaciones binarias según las características y cambios del desarrollo del mismo paralelismo.
+  -Conjunto producto: Una vez establecidos los 2 puntos de conexión, a su vez se establece la R.B principal y por ende. Se considera un paralelismo
+                      como Conjunto Producto en el caso de planearse más R.B secundarias dentro del paralelismo en sí.
+  -'Modos Operandi': Todas las características mencionadas se registran y se puede hacer en un elemento o dentro de un elemento. A su vez también se
+                     va hacer un molde para esta misma característica.
+
+ Clasificación: Esto es con respecto a las características que posee o que puede llegar a poseer
+  -Según la complejidad: Paralelismo débil y fuerte
+    Paralelismo débil: Básicamente solamente da a entender la relación binaria principal y adjuntar su respectivo acceso directo de entrada y salida.
+                       Al no ser tan complejo, realmente es poco probable que se incluyan otras características y el modus operandi. Se puede realizar
+                       en un elemento o dentro de un elemento
+    Paralelismo fuerte: Al tener mayor complejidad, se hace uso de las características anteriormente mencionadas pero sobre todo, se realiza solamente
+                        en un elemento y no dentro de un elemento (p.ej: no en 'Desarrollo', si no en algo que abarque más como un bloc de notas solo)
+
+ Variantes de la relación binaria: Al menos, las que hemos visto o hemos teorizado que pueden llegar a pasar... En tal caso. 
+  -Según la importancia: Relación binaria principal y relación binaria secundaria
+    R.B Principal: Cada parelelismo posee una relación binaria principal, básicamente se tiene para establecer cierto rumbo o orientación y también
+                   como 1er relación binaria perceptible, usualmente los 'paralelismo débiles' tienen solamente una relación binaria... En tal caso
+                   igual se considera como principal.
+    R.B Secundaria: Una vez establecido el Principal, se puede llegar a establecer más relación secundaria afuera o adentro del conjunto producto
+     -Según la importancia de los puntos de conexión: Secundaria superior e inferior
+       S. superior: Básicamente uno de los puntos de conexión (sea partida o llegada) está anteriormente establecido en la R.B Principal (partida o
+                    llegada)
+       S. inferior: Solamente se compone de puntos de conexión pero que no están establecidos en la R.B principal (partida o llegada)
+  -Según la composición de relaciones (discontinuado): Se iba a añadir (según en la teoría de funciones, basado en la composición de relaciones) una
+'relación compuesta' entre 2 puntos de conexión (Uno ya perteneciente a un C.producto y otro externo *sea perteneciente a un C.producto o no*) pero
+se ve innecesario por la aparación del R.B externo y su característica de crear más C.productos.
+  -Según la posición de los puntos de conexión: Relación binaria interna y externa
+    R.B interna: Que se da entre el mismo conjunto producto (para adentro)
+    R.B externa: Que se da entre fuera del conjunto producto (con uno de los 2 puntos, para afuera) y esto da lugar a un nuevo conjunto producto (esa
+                 misma externa tiene la cualidad de principal, pero igual es secundaria en el conjunto producto que se encuentra su partida o llegada)
+ Aspectos de las relaciones binarias:
+
+  Características: Como hemos dicho, el paralelismo no posee un 'desarrollo' como tal, solamente establece una conexión entre elementos y lo que salga
+                   le pertenece más al desarrollo de los mismos elementos en sí. Pero... curiosamente no se pasa desapercibido que la 'natureleza' de
+                   un paralelismo le concierne su R.B principal y a su vez este le concierne la creación de un conjunto producto/paralelismo. Por ende
+                   por lo menos cada R.B va a tener su característica(s) (Característica de RBP = C. de paralelismo =/= Carac. de RBS o interna). Por
+                   cierto, la introducción a diferencia de la características no puede cambiar.
+
+  Partida y Llegada: Una característica inmutable de las relaciones binarias. Lo hubiera querido como variante o hasta del acceso directo... Pero mejor
+                    es así. Existen 2 tipos de esta carac: inmutable y mutable. Inmutable quiere decir que la partida y llegada son establecidas
+                    ferreamente (ej: Skill Hunter>Habilidades (Llegada) <- Protocolo (Partida)). Mutable quiere decir que tanto partida como llegada
+                    intercambian roles (Haciendo una codependencia, aunque esto puede cambiar con el tiempo, por eso se llama 'mutable'). Y qué
+                    representan la partida y llegada? Usualmente una afinidad o mejor dicho, una relación de 'dar y tomar'. En este caso, de la 
+                    'llegada' se toma (desarrolla) y en la 'partida' se da (desarrollo colateral/resultado).
+  -Variables proposicionales: Parecido a la lógica proposcional, se adjunta palabras y se relaciona con los puntos de conexión para representar la
+                              partida y llegada ( -> o <- = inmutable ; -<->- = mutable) (p.ej: a = habilidades y b = operaciones, b -> a). En este
+                              mismo ejemplo, se hizo una formula proposicional que hace uso de los puntos de conexión y variables prop. En caso de
+                              variables proposicioanles externas, se recomienda poner un ' o algo parecido para diferenciar.
+
+  Conjunto Universal: Teniendo en cuenta que, por lo menos, en un paralelismo se realiza dentro de un elemento, ese elemento se puede decir que contiene
+                      a los paralelismos que posea... (Toma de ejemplo el concepto de conjuntos)
+Ten en cuenta que al menos, hemos agarrado conceptos de relaciones en la matemática y algo de comunicación. Todo es nuestra interpretación y solamente
+nuestra.

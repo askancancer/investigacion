@@ -1,0 +1,13 @@
+Es probable que el artificio 'colidir' se desarrolle a futuro.
+
+-
+
+Con respecto a S-S con la nueva ruta 2 y su razonamiento adyacente 'Categorización'; hay terminos que podemos agarrar como simalares a categoría 
+como secciones, clases,
+tipos, etc. Lo que si es necesario es que la clasificación siempre está presente ahí; pero pues necesitamos agarrar más conocimiento (Por ahora,
+considera esa estructuración de categorización como un prototipo). De hecho en la misma RAE si comparamos clasificar y categorizar. Veremos que la
+diferencia es que uno usa clases y el otro categorías.
+
+Es probable que esto mismo se fusione con el elemento 'Clasificación' o haga dos elementos distintos tipos (bloc/carpeta) pero por el momento,
+simplemente no ya que; no poseemos el conocimiento necesario para proceder.
+

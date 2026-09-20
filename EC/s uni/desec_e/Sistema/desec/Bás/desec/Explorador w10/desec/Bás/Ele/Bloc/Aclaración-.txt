@@ -1,0 +1,5 @@
+En contraste con el subelemento 'Actualización', la aclaración como su propio nombre lo dice; es mayoritariamente para resolver dudas, incognitas
+ya sabidas o con frecuencia es dar una improvisación del desarrollo añadiendo información adicional. Se diferencian porque no es tan radical o simple-
+mente no tiene una propiedad latente para cambiar las cosas. Aunque eso depende mucho del caso.
+
+Se acopla a los artificios de 'contuinidad' y 'sucesión-secuencia' porque siempre van a formar parte del indice (para mantener el orden)

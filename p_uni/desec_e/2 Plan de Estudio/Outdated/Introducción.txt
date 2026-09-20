@@ -1,0 +1,80 @@
+Plan de Estudio? El plan de estudios se compone de una serie de objetivos, metodologías y criterios de evaluación, que permiten establecer
+los conocimientos y habilidades que se deben adquirir durante el proceso educativo y asegurarse de que los alumnos cumplan con los
+requisitos para la obtención de la titulación. (Según google en el contexto universitario, ya que esto sería malla curricular de una
+universidad como tal).
+
+Qué es la metodología? La Metodología es la ciencia que nos enseña a dirigir determinado proceso de manera eficiente y eficaz para alcanzar
+los resultados deseados y tiene como objetivo darnos la estrategia a seguir en el proceso. Existe la metodología del estudio? En parte no
+es así y creo que más bien se llaman: "Métodos de estudio": 
+
+-Glosario-
+
+Un proceso es una lista de instrucciones a seguir para completar una tarea (Ejm: un proceso de negocio, línea de montaje, con pasos
+discretos y/o traspasos codificados (Traspaso es el traslado de algo desde un lugar a otro, Paso adelante hacia otra parte u otro lado y
+la codificación registrar algo siguiendo un código y descodificar es aplicar inversamente las reglas de su código a un mensaje condificado
+para obtener su forma primitiva).
+
+Una técnica es una forma de ejecutar un proceso que alguien con exp. en un campo aprende con el tiempo, "trucos de oficio" por así decir-
+lo (Ejm: En la programación el bucle FOR se puede escribir de muchas maneras diferentes, pero el programador experimentado sabe cómo
+escribir la forma más eficiente para una tarea determinada/cuando es pertinente.
+
+Un método/os son los procesos/procedimientos utilizados de manera sistemática con una finalidad en particular = Un proceso pero no tan
+codificado. Es un proceso con técnicas aplicadas. Esto hace que un método sea un enfoque más holístico para resolver problemas. (Ejm: Cómo
+realizar una ceremonia Scrum. aparte del objetivo general para el resultado de la ceremonia, hay una variedad de formas para llevarlas
+a cabo, y gran parte de la efectividad de la ceremonia recae en el facilitador).
+
+Una metodología es un sistema de métodos y técnicas utilizados en un área particular de estudio o actividad. Es un marco para comprender
+y abordar un tema o tarea en particular.
+
+-Glosario-
+
+https://es.wikipedia.org/wiki/Categor%C3%ADa:Tipos_de_aprendizaje (Entre aprendizaje, enseñanza y estudio... Cuál es la diferencia para
+empezar?)
+
+>>>>>>>>>>>>>>>
+
+Estudio es memorizar hechos o atender la enseñanza para aprender acerca de un hecho / El estudio es el conjunto de técnicas y estrategias 
+puestas en práctica por un sujeto, denominado estudiante, para incorporar conocimientos de una determinada disciplina o de las relaciones
+entre estos y otros conocimientos. En el ámbito más general del aprendizaje, es característica la voluntad que pone en práctica el 
+estudiante para abordar un tema específico.
+
+Memorizar te ayuda a recordar hechos individuales.
+
+El aprendizaje es el proceso a través del cual se adquieren y desarrollan habilidades, conocimientos, conductas y valores.​ Es resultado de
+la atención, el estudio, la experiencia, la instrucción, el razonamiento, la observación ,así como la influencia de factores externos con
+los cuales interactuamos. Este proceso puede ser analizado desde distintas perspectivas, por lo que existen distintas teorías del
+aprendizaje.
+
+"I can memorize that my tires are P225/65R15 .
+I can learn that those numbers have meaning - 225 mm across, the height is 65% of the width, and my rims are 15 inches"
+
+Enseñar su objetivo principal es comaprtir conocimientos o habilidades mientras que el aprendizaje implica aplicar los conocimientos
+adquiridos
+
+
+Aprendizaje es ganar conocimiento o habilidad estudiando, practicando y experimentandose en eso > Dicho esto: el estudio es una manera
+de aprender / Siendo que básicamente es que actualmente puedas entender lo que es el tema (Básicamente recordar con cierto entendimiento
+para poder usarlo en contexto, memorizar es repetir lo anteior con acertividad y se puede aprender sin estudiar (Es como cuando los niños
+aprender a hablar, no saben como estudiarlo) siendo que el estudio es más concentrandose en algo en orden de hacerlo taladrar en tu
+cabeza. Entonces luego el aprendizaje es lo que pasa cuando estudias (El acechador del conocimiento).
+
+>>>>>>>>>>>>>>
+
+De estos pues tenemos la enseñanza memorística y metodologíca (Se entiende por donde va el asunto, de ahí podemos derivar en cuánto al
+estudio). Aprender =/= Memorizar pero están relacionadas.
+
+https://www.reddit.com/r/learnprogramming/comments/89n2qo/learning_vs_memorization/ De aquí puedes sacar tu veredicto final.
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Más información de cada tema dentro de la carpeta...
+
+Carpetas: "Inteligencia y su involucración" , "Estudio de idiomas" , "Estudio de ciencias" , "Estudio de programación"
+
+
+
+
+
+
+
+

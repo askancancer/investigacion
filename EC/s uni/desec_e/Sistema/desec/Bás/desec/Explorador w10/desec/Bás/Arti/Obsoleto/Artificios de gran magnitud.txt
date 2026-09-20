@@ -1,0 +1,37 @@
+Prototipo: Últimamente hemos aplicado esto muy seguido, puede venir con otros nombre como "Prueba" o "Simulación" pero la finalidad es la misma, probar
+y desarrollar mientras que en el proceso este protocolo puede estar obsoleto o adaptarse mediante los cambios... Sea como sea, se podría decir
+que es la versión preliminar.
+
+-
+
+Revamp: "Revamp" and "rework" both mean to change or improve something, but "revamp" often implies a more extensive, comprehensive change, 
+while "rework" suggests a focused effort to correct or improve specific aspects (De Google). He de decir que retrabajar (rework) y modernizar
+(revamp) a leguas se nota la diferencia entre complejidad, puesto que modernizar algo, es un proceso largo y que se ve mucho en la historia.
+
+Usualmente puede involucrar (desde 'Operaciones hasta la ubicación actual) pequeñas o grandes escalas y pueden involucrar hasta un cambio completamente
+nuevo y no antes pensado (como es obvio).
+
+-
+
+Anexo: Antes, lo hemos definido como paralelo... Pero su definición más antigua y la que vamos a seguir usando es básicamente hacer una partición del
+desarrollo que queremos desarrollar... Es decir, como si fueramos a desarrollarlo en 2 lados diferentes.
+
+Diferenciar entre 'desarrollo' del objeto al que le hacemos un anexo y desarrollo del anexo...
+
+Esto mismo se ha usado cuando en 'Estudio Cientifico' se hizo un 'anexo' al disco duro externo. Esto nos deja con 2 alternativas (depende de la compl-
+ejidad): Anexo propio (creado y por ende, con cierta independencia en el mismo desarrollo del anexo) y anexo impropio (creado dentro de un objeto ya
+existente *solamente sirve como propiedad*... Más info en 'Anexo'.
+
+-
+
+Extensiones: Más info en C:\Users\c\Desktop\Operaciones\Extensiones
+
+-
+
+Omnipresencia (desfasado): La primera vez se creo cuando se dispuso poner la carpeta "Extensión huesped" a todas las extensiones pero con ciertos
+cambios... De
+eso se trata dicha propiedad, que ciertas carpetas se vean reflejadas (con cambios nulos, parciales o totales) en otros dispositivos de almacenamiento
+(Esto es más orientado a las extensiones).
+
+Ahora mismo en la carpeta "Operaciones" hemos creado algo llamado 'Carpetas omnipresentes' que refleja esta misma propiedad (No solamente
+con los moldes)

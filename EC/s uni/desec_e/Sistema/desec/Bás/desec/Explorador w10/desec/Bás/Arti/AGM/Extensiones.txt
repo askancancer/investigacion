@@ -1,0 +1,10 @@
+Más info en Extensiones: C:\Users\c\Desktop\Operaciones\Extensión huesped
+
+Este mismo artificio al principio era algo como un anexo (Lo sigue siendo en ciertos aspectos). Pero ahora ha cambiado como algo para expandir
+'Operaciones' y a la vez aumentar la capacidad de complejidad de este mismo.
+
+Condiciones (esto se explica mejor en la propia carpeta de extensiones)
+1. Cabe aclarar que esto ha dejado de ser un artificio, es más como una propiedad de omnipresencia; cualquier unidad de almacenamiento que aspire a
+ser 'extensión' pues va a tener esa misma carpeta de 'extensión huesped' pero modificada según etc etc. Dicho eso, simplemente se requiere la
+intención de hacer extensión una unidad de almacenamiento ya existente. Es hasta curioso porque si una extensión posee una carpeta de 'Operaciones'
+siempre va a tener dicha carpeta de 'Extensiones'.

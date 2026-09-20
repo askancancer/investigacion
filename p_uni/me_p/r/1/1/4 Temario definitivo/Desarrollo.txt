@@ -1,0 +1,38 @@
+Para esto vamos a ocupar un archivo word y 2 carpetas por archivo (Temario mat y hum). En cada carpetas vamos a añadir otra llamada "Bases" en la cuál
+también vamos a hacer carpetas por cada elemento que vamos a usar para el temario definitivo y una vez más: El temario definitivo es una combinación de
+todos los elementos + temas/subtemas adicionales en el desarrollo/documentación de uno o varios temas. Entonces el archivo word nos va a ayudar
+a documentar de manera más fácil debido a sus herramientas.
+
+Puedes usar elementos para diferenciar pero el punto es el mismo, un copia y pega para nada tedioso la verdad.
+
+>Reforma: <Base> a <Bases> y un texto adicional para explicar en las carpetas de temario.
+
+-
+
+13/1/25 El temario definitivo se va a dividir en 2: Hum y Mat para luego ser seccionada fácilmente por bloques. Luego seguramente lo hemos mencionado
+en la introducción o se nos ha pasado de alto pero el patrón es el mismo que con el temario de la cepre/admisión... Los ahora llamados 'temas principa
+les' se trabajan primero hasta un 20.2 en mat o 20.1 en letras.
+
+Así pues un patrón que es el de la cepre elegido para el temario definitivo (Por cuestiones de ergonomía)
+
+-
+
+27/1/25 El temario definitivo se va a converger con la antigua carpeta "Compendio" para reducir costes de tiempo y pues, centralizar el proceso. Aquí
+se va a aplicar lo mismo que se dijo en el desarrollo del Compendio... Y de esto vamos a seguir con el siguiente molde para cada tema principal
+que se presente:
+
+(Tema principal): Detalles
+
+TA:
+STA:
+TAP:
+STAP:
+
+(Cronología)
+-
+Qué es eso de cronología? Pues básicamente para el momento en que se ha terminado de desarrollar dicho tema principal tenemos 2 elementos: 1 y 2 pero
+ambos se encargan del estado de completación de los elementos del tema principal (incluyendo al mismo) pero 1 se encarga de este mismo conjunto
+de elementos mientras que 2 se refiere al anterior/res conjuntos de elementos.
+
+A parte se ha decidido que aunque tengamos un patrón predeterminado que es el de la cepre/admisión uni, hemos decidido tener semanas diferentes para
+pues tener la soberanía del temario definitivo. Por ejemplo: La semana 2 no es la misma que la semana 14 (De la cepre uni) en filosofía.

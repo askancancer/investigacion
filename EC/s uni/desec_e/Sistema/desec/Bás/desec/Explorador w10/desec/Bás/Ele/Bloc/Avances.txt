@@ -1,0 +1,4 @@
+Digamos que son los cambios/desarrollo que son posibles... Por ende de realizarse se borra y pasa a ser parte de elementos como 'Desarrollo',
+'Actualización' y un gran etc.
+
+Usalmente contiene cambios, pero no se descarta la posibilidad de la creación, destrucción o otras acciones relacionadas.

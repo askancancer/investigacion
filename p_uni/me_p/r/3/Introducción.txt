@@ -1,0 +1,28 @@
+Para el momento de hacer esto (6/4/25, 9:23 a.m.) estamos usando técnicas mayormente arquimedianas o hasta rudimentarias, misma razón por la que no
+contamos con movimientos/procedimientos avanzados... Pero voy a hacer lo mejor que pueda al respecto.
+
+-
+
+Para este mismo momento estamos en 'compendio' en un problema llamado "Encrucijada de 3" y ahora mismo también estamos recolectando material
+audiovisual o de información, etc. A su vez hemos proyectado una carpeta reemplazando a "Métodos de estudio (generalizado)" y con justa razón: Con
+esta mismo prototipo vamos a centrarnos en el desarrollo/estructuración para desplegar/producir distintos 'métodos/metodologías de estudio' para
+ cada carpeta de estudios como EC, ET o otros objetos/'operaciones cruciales'.
+
+Temas como la investigación, sistematización, razonamiento e incluso el lenguaje y entre otras van a acuñarse como 'disciplinas' como tal -> misma
+razón por la que justificamos que en '1 C-E' está 'ME (p)' pero no investigación, sistematización y etc no poseen sus propias carpetas en '1 C-E'. 
+Y por ello el o los 'método de estudio'
+solo es el producto de operar con esas mismas disciplinas desde un enfoque educativo (o eso creo)... Tampoco se niega la posibilidad de que estás
+mismas disciplinas y otras que, dada su complejidad; pueden producir un enfoque más difuso o hasta un enfoque mécanizado (Lo cual, es lo que
+enfrentabamos en "Métodos de estudio (g)" en primer lugar).
+
+-
+
+Por esa misma razón estamos empleando diviendo este mismo concepto en 2: 1. General/General especializado (por áreas) = GE
+2. Especialización/por disciplina = E-Disciplina
+
+1. Da catedra del concepto de este prototipo (ya antes mencionado) y se hace una aplicación para desarrollar y emplear esos métodos de estudio
+'generalizados' y cuando nos referimos a 'general/generalizados' es que abarcar áreas por lo que también hay distintas clases de este mismo objeto.
+ (por ejemplo: Método generalizado preuni abarca la carpeta 'preuni')
+
+2. Da catedra del concepto de este prototipo pero la aplicación para desarrollar y emplear esos métodos de estudio (no generalizados,
+sino específicos o especializados) especiales no se hacen en la misma carpeta *2.* si no que en sus mismos objetivos/ubicaciones (Ej: Arqueología)

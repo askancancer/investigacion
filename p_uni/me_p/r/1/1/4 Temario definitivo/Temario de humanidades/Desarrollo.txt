@@ -1,0 +1,8 @@
+Bases:
+ Base 1: Pre uni
+ Base 2: Pre sm
+ Base 3: Savia
+ Base 4: admisión uni
+ Base 5: admisión sm
+
+Base principal: Savia (Debido por cierto orden <creíble>

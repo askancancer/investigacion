@@ -1,0 +1,166 @@
+Vamos a tocar técnicas de estudio (Se sobreentiende, no hace falta explicar más).
+-
+Ejm:
+https://www.reddit.com/r/GetStudying/comments/17u9z4a/what_is_the_best_technique_for_studying/ = Qué son las flashcards y la repetición
+espaciada? Funciona tanto con ciencias como con idiomas y programación (Ver anki para más info.) siendo 2 técnicas de estudio que funcionan
+para más campos pero hay técnicas que se limitan a 1 o x cantidad de campos (Ejm: Input comprensible es para idiomas).
+-
+
+
+c1 a +: Información con lo que respecta al nombre de la carpeta , c2 a +: referencias
+
+-
+-
+
+https://www.youtube.com/watch?v=w0J_2arPVfg&t=2s&ab_channel=CienciaSinFloro > c1 (Ubicado en la carpeta "Videos") 
+Partes importantes:
+Básicamente el "apren-
+dizaje" en las academias preuniversitarias pasamos por la etapa (ciclo 0) y dura tales meses para el examen de admisión... Ahí todo bien
+, no? lo que pasa es que el colegio ni la academia te preparan para la universidad. (El sujeto da un ejemplo en el curso de Física 1: En el
+cual ciertas estudiantes les da problema *siendo que este 1er curso de física es básicamente de temas de academia = no complicado*). El
+cole no te prepara para la universidad. Ahora hay ciertas diferencias entre la cepre y la academia (En la cepre te enseñaban pues aparte
+de enseñarte sobre el examen de admisión, también desde la base... rozando el aprendizaje *ESTO POR PARTE DE LOS PROFES QUE TAMBIÉN
+ENSEÑAN EN LA UNI* y con rozando del aprendizaje es ciertamente viendo desde la base de la física.) aprendes realmente los cursos pues...
+Esto no es tan lascivamente en otras academias que van para la UNI también (Siendo que no te preparan para la universidad... Es más
+mecanizado con las formulas)... Y eso te va a hacer desaprender para volver aprender (Esto se nota más en ciencias, pero no sabría decirte
+en ing). Siendo que el razonamiento desde una pregunta hasta la respuesta es más importante que el resultado.
+
+
+
+
+-
+
+
+Flashcards/Repetición Espaciada:
+
+https://www.youtube.com/watch?v=y0dsv4SjWds&ab_channel=PabloLomeli > c2 (Ubicada en la carpeta "Videos" de la carpeta superior) "Cómo usar
+ANKI para ESTUDIAR CUALQUIER TEMA Efectivamente" Partes importantes: Los beneficios son Auto evaluarte; Repaso activo; Aumento de
+Retención. (Esto le concierne más a idiomas que a otros campos) pero se tendría que crear una cuenta en "https://ankiweb.net/about" para
+sincronizar. Una vez hecho ya podemos crear mazos (Cada mazo posee una cierta cantidad de tarjetas y estás tarjetas se llaman
+"flashcards"/"tarjetas de repaso"
+
+Siendo que en la aplicación están las opciones "Mazo" (Para crear una baraja de cartas/tarjetas flashcard), "Añadir" (Agregar nuevas
+tarjetas al mazo), "Explorar" es buscar tarjetas que ya cree, "Estadísticas" (Básicamente de lo que he estudiado", las más importantes.
+
+El mazo es la baraja con cartas/tarjetas de pregunta y respuesta (Esas son las flashcard: Le pones una pregunta en el anverso y una/as
+respuesta/as en el reverso, Puedes hacer mazos con preguntas y respuestas de un libro de práctica (Esto depende ya que anki no posee
+ni la raíz cuadrada y no estudiamos en deco...). Las flashcard por lo general contienen una respuesta y al acertar o no la pregunta
+en mente puedes desvelarla para ver si te equivocaste o no. En la flashcard puedes crear una pregunta sencilla o difícil (depende creo).
+
+El proceso de cada tarjeta es: Pregunta > Conclusión > Evidencia. Abajo hay botones que es una auto calificación de acuerdo a lo que
+respondiste (Fácil = Respondiste al "ojo" hasta Díficil = No estuviste ni cerca). Puedes agregar imagenes para resolver problemas que
+anki no deja escribir. Hay tarjetas con modalidad de hueco (Básicamente para recordar/autocompletar) y hay para autocompletar imaganes
+(Esto es vía plugins que posee anki, ya es algo más de buscar).
+
+
+https://www.youtube.com/watch?v=PVj3DjuFGs4&ab_channel=PabloLomeli > c2.2 (Ubicada en la carpeta "Videos" de la carpeta superior)
+Partes importantes:
+Ahora la repetición espaciada funciona en base a flashcards (Si ya vimos el video anterior vamos a saber). Que se diferencia de la
+repetición?, (Ten en cuenta que tanto las flashcards como la repetición espaciada pueden funcionar mejor con otros métodos de estudio y
+también pues hay diferentes métodos en tal orden para llevar a cabo). Y anki en si mismo es la repetición espaciada como tal.
+
+Rankeo para programación: Anki > 5+/10 = Probablemente por las lineas de código es algo más fuera de lugar...
+Repetición espaciada con métodos adicionales > 3+/10 = Tiempo.
+
+-
+
+"Pomodoro technique", "Mapas mentales", "Active Recall", etc:
+
+https://www.reddit.com/r/GetStudying/comments/17u9z4a/what_is_the_best_technique_for_studying/ > co2 = Aparte de mencionar las flashcards,
+aquí hay métodos de estudio desde cierta exp de tal gente. Entre ellas se ha visto mencionada los métodos que hemos mencionado con
+anterioridad. Pero para revisar cada mensaje hasta cierto punto es mejor guiarse por este video:
+
+https://www.youtube.com/watch?v=x_dXip0J37g&t=22s&ab_channel=MikeDee > c2.3 (Ubicada en la carpeta "Videos" de la carpeta superior)
+= Métodos de estudio ciertamente explicados + https://www.reddit.com/r/GetStudying/comments/hg1m94/over_1_year_i_tested_different_study_techniques/
+> co2.2
+
+ °Técnica feymann y derivados: https://www.reddit.com/r/GetStudying/comments/hg1m94/over_1_year_i_tested_different_study_techniques/ >
+  co2.3, https://www.reddit.com/r/PhysicsStudents/comments/s7evz0/is_the_feynman_technique_the_best_learning_method/ > co2.4 : De qué
+  trata? Es de aprender un tema complejo y hacerlo en una sencilla terminología para que la genta pueda entenderlo fácilmente. Esto +
+  la misma idea de enseñar pues le da un plus extra (Ya que de por sí enseñar es una técnica de estudio como tal...
+
+  Derivados como los de enseñar a estudiantes mediante clases, grabarte como si fueras profesor en clases, hacer el feymann contigo mismo
+  y entre más que involucren la enseñanza en esa forma.
+
+Rankeo:
+
+ °Exámenes pasados: Se sobreentiende (Más si vas a tomar un examen)
+
+Rankeo:
+
+ °Videos de youtube: Se sobreentiende (Lo hemos estado haciendo todo el tiempo...)... Aunque no solamente youtube. Redes sociales en sí.
+
+Rankeo:
+
+ °Rote learning/repetición: Trata de básicamente de memorizar basado en la repetición y mientras más repitas el material > lo vas a
+   entender mejor. Hasta cierto punto podrías decir que se vuelve tedioso (No sé si hasta afecta en libros diferentes del mismo material).
+   Si haces este método entonces deberías pensar activamente en qué estás aprendiendo? Preguntate sobre el material: Por qué sucede esto?
+   Por qué es así? Es pensar sobre lo que estás leyendo/viendo. Básicamente tratar de aprender.
+
+Rankeo:
+
+ °Mapas mentales: Se sobreentiende (como en la escuela).
+
+Rankeo:
+
+ °Estudiar con amigos: Hasta cierto punto puede parecer fácil pero depende de los amigos (Incluso si explicas a otro amigo el material
+   como tal pues estás aplicando la enseñanza o la técnica feymann, si tienes dudas puedes preguntar, etc.
+
+Rankeo:
+
+ °Active Recall: Básicamente es memorizar información (Leyendo primero el escrito y luego cierra los ojos y trata de recordarlo. Si no
+   la heces pues aprende de nuevo e intenta de nuevo. (Con tan solo leer un texto pasivamente o ver un video pasivamente no es la mejor
+   manera de aprender y estudiar inteligentemente). Lo que hace esta técnica es forzarte a procesar la información (Ayuda a mover el
+   material que aprendes del corto plazo al largo plazo).
+
+Rankeo:
+
+ °Pomodoro technique: Surge en los 1980s: Es básicamente un tiempo de estudio para seguidamente un tiempo de descanso (ejm: 25 minutos
+   de estudio y de ahí tomas 5 minutos de descanso, podría decir que agarramos un 20%). Aún si estudias por mucho tiempo se dice que
+   debes tomar ciertos descansos. Obviamente hay ciertas desventajas. y una de ellas es estudiar a medias.
+
+Rankeo en ciencias: 8/10 (En cierta pequeña escala, todavía hay que ser productivos...)
+
+ °Method of Loci: Es para memorizar material que usa la visualización de ciertos entornos familiares en orden para recordar la info.
+   (Ejm: Imagina poner objetos en un cuarto como en el sofa, luego el otro objeto en frente de la cama, etc. Entonces en orden pra
+   recordar cada objeto, tú caminas por el cuarto y luego agarras o pasar cada objeto que colocaste). Y eso se aplica para el material...
+
+Rankeo:
+
+ °Flashcards: Ya lo hemos visto antes...
+
+
+-
+
+
+https://www.reddit.com/r/GetStudying/comments/xk6rh0/what_does_studying_even_mean/ > co2.3 , https://www.reddit.com/r/PhysicsStudents/comments/s7evz0/is_the_feynman_technique_the_best_learning_method/
+> co2.4 = Resolver ciertas dudas si es que las tienes como la de cuál es el mejor método (Es el que más se adecue a usted)
+
+https://www.youtube.com/watch?v=C5OJJD3Eytk&ab_channel=easy%2Cactually > c2.4 (Ubicada en la carpeta "Videos" de la carpeta superior)
+Partes imporantes: Básicamente volverte inteligente es relativo, Personas buscan volverse inteligente por dinero, resolver problemas,
+estudiar cosas difíciles, etc. Todo eso para que la gente respete pero no al punto que piensen que eres repelente. Aparte que mayor parte
+de lo que buscas en internet en cuanto a improvisar el estudio/aprendizaje es tan vago y filosofíco. Y si buscas especificamente pues
+puedes toparte con cosas como: "Ejercicio, dormir, música clásica, bayas, café, etc" y suena bien pero tienes que estudiar algo...
+
+Claro eso no se compara con lo que hemos buscado. Al final todo se trata de estudiar y no tanto las técnicas (Como leer, Qué clase de
+lectura? Depende. La ficción sirve para la lectura rápida/mejor vocabulario. Pero también hay libros que no son de ficción/actualmente
+usables y es la llave para tirar cosas interesantes en una conversación (Sabes historia y puedes tocarlo pero no ser repelente = O sea
+no uses lo que es "Bueno, de hecho" lo cuál no es tan atractivo y mejor: "Espera, en realidad"... Ejm en el video). Suenas inteligente
+sin hacer sentir tontos a los demas. Y los buenos libros? No necesariamente los típicos libros que la gente te recomienda. Depende de lo
+que vas a ocupar... Ahora en cuánto al aprendizaje pues tenemos hasta más de 10 de cosas antes de hacer pero el dueto clásico:
+ 
+No práctica = olvido, 20% del conocimiento para tener 80% de la habilidad. En la curva del aprendizaje influye la práctica. Y si hay
+algo que no puedes prácticar pues puedes imaginarlo/pensar acerca de ello. Otra cosa es el dueto de teoría y práctica que ya es muy
+berreada pero es un pilar. Hay varias técnicas de estudio pero ese dueto de teoría y práctica siempre sigue vigente para cualquier
+ocasión.
+
+https://www.reddit.com/r/mit/comments/4e8f9g/how_do_students_at_mit_learn_how_do_you_study/ > co2.4 , https://www.reddit.com/r/Harvard/comments/1us6ws/need_help_with_study_technique/
+> co2.5 = Ciertas cosas como hacer ideas principales de un parrafo, etc.
+
+https://www.reddit.com/r/GetStudying/comments/18bso8b/memorization_remembering_and_learning/ (co2.6) >
+https://old.reddit.com/r/GetStudying/comments/ybjzr9/my_memory_sucks_really_bad_how_do_i_study/ ,
+https://old.reddit.com/r/GetStudying/comments/12ffjxt/how_do_you_go_about_studying_hard/ (co2.7; co2.8) = Tips que ya sabíamos y algunos
+que no (Como que la lectura rápida no sirve al estudiar, o como si leyeran un libro de estudio de la misma manera con un libro de ficción)
+y otros que ya hemos visto...
+
+-

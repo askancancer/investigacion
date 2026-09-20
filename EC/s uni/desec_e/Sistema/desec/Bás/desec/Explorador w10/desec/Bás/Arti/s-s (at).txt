@@ -1,0 +1,20 @@
+Indice
+Desa
+Clas.
+Desa 2
+
+-
+
+Desa
+ Se introduce de manera vagua los tipos de artificio (emision y conjurador)
+ Se introduce el cambio para herramientas y artificios (condiciones y cantidad de elementos) según lugar(es) y complejidad.
+ Se introduce los tipos de artificio (E, c y transmutador)
+Clasificación
+ Se hizo un cambio previamente (ver en 'obsoleto') = 3 clases de artificios
+
+.
+.
+.
+
+Desa 2 (prox)
+ 

@@ -1,0 +1,10 @@
+Sacado del "Diccionario de estudiante" podemos deducir/comprobar ciertas cosas al revisar una palabra del Diccionario de Lengua Española en la web.
+
+(número). = Número de acepción
+
+(palabra principal) = Lema [palabra estudiada]
+
+(´oración/frase´) = Ejemplo [señalado]
+
+(palabra principal)(número) = Número diferenciador de palabras hómonimas [señalado por la palabra principal]
+

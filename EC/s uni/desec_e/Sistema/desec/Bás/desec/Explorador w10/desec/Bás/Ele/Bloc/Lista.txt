@@ -1,0 +1,5 @@
+A diferencia de la 'documentación' la lista sirve para denominar o nombrar (su uso más común) objetos/elementos o acciones como tal. De hecho, lo
+que es la clasificación se puede considerar como 'lista'.
+
+Claro que, también se ha usado la lista como para una documentación a menor escala. Su uso real está puesto en tela de juicio por el momento PERO
+también piensa que hay distintos tipos para aplicar lo que es una lista (Como categorización, enumeración con conceptos adyacentes, etc).

@@ -1,0 +1,22 @@
+Simbolos y significado: Ten en cuenta que son en Unicode
+
+"Subset" ⊂ / ⊃ = Inclusión
+
+"Slash doble" // = Paralelidad entre indices
+ |//| = + desarrollo total
+ *//* = + desarrollo parcial
+"Bracket" [] = Al mismo tiempo (O sea, en cuanto a desarrollo entre temas o subtemas)
+"Slash" / = (OG-Relacionado)
+"Asterisco" = * (Completado)
+"Marca X" = x (Incorrecto)
+"Suma" = + (Parcialmente completo)
+"conjunción" = ∧ (y)
+"disyunción" = ∨ (o)
+
+
+-
+
+Herramientas: División por semanas y cada semana por partición en 2 (.1;.2) según el temario de la cepre uni.
+De ser necesario se va a usar la herramienta de (pintar) para hacer una organización más adecuada puesto
+que por ejemplo en cuanto a {} se puede dibujar para indicar el estado actual de tales temas... Es cuestión
+de aplicación.

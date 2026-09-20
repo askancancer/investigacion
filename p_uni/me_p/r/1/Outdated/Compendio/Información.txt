@@ -1,0 +1,12 @@
+El compendio (más como ampliación) se introduce con la finalidad de alivianar la documentación... Aquí usaremos 3 elementos:
+
+"Asterisco" = * (Completado)
+"Marca X" = x (Incorrecto)
+"Suma" = + (Parcialmente completo)
+
+DE SER NECESARIO IR POR LA CARPETA DE INDICE Y BUSCAR MÁS ELEMENTOS...
+
+Alivianar? Pues aquí van todos los temas y subtemas documentados y por documentar... Recuerda que todo eso va posteriormente
+al indice así que esto es más de documentación ya que el indice es el 'efecto'.
+
+Con 4 elementos: Temas, Subtemas, Temas en paralelo, Subtemas en paralelo

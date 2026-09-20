@@ -1,0 +1,2 @@
+Si es un solo paralelismo, es recomendable no poner ni principal ni secundario pero al estar solo, igual se hace alusión que es el principal (por la
+misma creación del conjunto producto).

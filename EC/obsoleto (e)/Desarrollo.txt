@@ -1,0 +1,9 @@
+Hemos creado el anexo entre 'Estudio cientifico' y el disco duro externo actual (Más info en 'Anexo 1')
+
+p uni = Preuniversitario
+
+s uni = semi uni (alternativas superiores/iguales a uni)
+
+uni = universitario
+
+Misc = Misceleanea

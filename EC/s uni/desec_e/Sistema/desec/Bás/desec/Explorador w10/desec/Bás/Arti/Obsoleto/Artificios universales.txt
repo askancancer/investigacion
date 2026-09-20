@@ -1,0 +1,25 @@
+
+
+-
+
+Naturaleza: Bloc de Notas
+
+': Una palabra rodeada entre ' ('Ejemplo') tiene una afinidad para referirse a un elemento o a un objeto en concreto (ej: 'Operaciones')  y justamente
+puede diferir con respecto a las definiciones del diccionario aunque puede que en cierta ocasión lo hemos usado como una especie de
+ tecnicismo/comillas
+
+-
+
+Naturaleza: Bloc de notas
+
+": Una palabra rodeada entre " ("Ejemplo") tiene una afinidad con respecto de referirse a algo como literalmente entre comillas (ej: "anexos")
+ y justamente puede diferir con respecto a las definiciones del diccionario; puede que en cierta ocasión lo hemos usado como una especie de elemento
+/guiones o como una transición de palabra nueva a objeto concreto (').
+
+-
+
+Naturaleza: Bloc de Notas
+
+Novedades: Podría ir en continuidad pero es más para referirse a lo que se ha hecho últimamente con respecto de dicha carpeta o elemento y, no se ha
+podido documentar apropiadamente.
+

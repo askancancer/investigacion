@@ -1,0 +1,19 @@
+Antes iba a ser un artificio como tal, pero pues, queda mejor elemento debido a la capacidad que puede llegar a tener. Recuerdas lo de 'Compendio'?
+O mejor dicho, recuerdas cuando por primera vez hemos creado la carpeta 'Operaciones'? Básicamente eran un conjunto de ideas que surgieron después
+de un razonamiento para luego evolucionar.
+
+Entonces, "The term “sandbox” is aptly derived from the concept of a child's sandbox—a play area where kids can build, destroy, and experiment
+ without causing any real-world damage. Similarly, a digital sandbox allows experimentation and testing without repercussions outside its confined
+ space." y usando ese mismo concepto, lo introducimos en el contexto de las "Operaciones". Para ello, usualmente consiste el uso de muchos elementos,
+artificios, propiedades, técnicas y un gran etc.
+
+Pero sobre todo, involucra un desarrollo que de ser efectivo; se consolida y deja de ser un 'Sandbox' pero de lo contrario; simplemente se desecha.
+No hay más ciencia en esto, podría decir que, en comparación de otros artificios similares como prototipo, experimento o uno que otro desarrollo
+que se ha realizado... Era pues maquinar complejos razonamientos sin repercusión alguna.
+
+-
+
+Esa es la palabra SIN REPERCUSIÓN ALGUNA. A diferencia de ciertos cambios/desarrollo/prototipos o hasta experimentos que si arriesgaban o comprometían
+la estructura ya existante que los rodeaba, el sandbox pues no compremete y eso implica entre muchas cosas; un sistema aislado y eso implica,
+limitaciones como alterar el contenido en objetos externos al sandbox. Para mitigar estás limitaciones simplemente manten un registro/cronología
+de lo que vas a hacer... Pero una vez alteras lo ya antes mencionado, de sandbox pasa a ser lo que quieras pero 'sandbox' no es.

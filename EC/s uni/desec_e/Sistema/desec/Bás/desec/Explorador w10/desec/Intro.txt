@@ -1,0 +1,5 @@
+Antes se iba a referir algo parecido a la carpeta "Sistema". Pero es mejor hacer un prototipo que involucre varios aspectos. Considera esto, como algo
+básico. Puesto que con anterioridad para la creación de esto (19/3/25) hemos creado un protocolo para establecer y sintetizar el concepto de 'Sistema'
+entre ello hemos incluido el manejo del explorador (Ya lo hemos usado de manera intuitiva con anterioridad).
+
+Para mantenerlo fácil... He dividido en 2 categorias: Básico-De 'operación' y Avanzado-Propio

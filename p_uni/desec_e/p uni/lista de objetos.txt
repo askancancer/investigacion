@@ -1,0 +1,8 @@
+1 Desclasificado : otro nombre para referirse al elemento 'obsoleto'
+
+2 ex_ad = Examen de admisión : Le concierne al susodicho examen o exámenes en este caso porque también abarcamos UNMSM, UNI, etc. Es probable que en el futuro
+tengamos más exámenes como los de Harvard por ejemplo. Para hacerte una idea: Aquí se almacenan las preguntas de actualidad y otras pautas.
+
+3 material = Material de estudio : Como su nombre lo dice, se encarga de lo que vamos a utilizar/emplear a la hora de estudiar
+
+4 me_p = método de estudio (prototipo) : Es un prototipo de un 'método de estudio preuniversitario' que podría ser el precedente para algo más grande.

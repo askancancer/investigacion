@@ -1,0 +1,25 @@
+Se introduce una nueva carpeta llamada: "Compendio" cuya breve explicación es la de corroborar el estado de los temas/subtemas estudiados en el temario
+definitivo... Se introduce una carpeta llamada "temario definitivo" cuya explicación está mejor dada en la carpeta misma pero que consiste en la
+aplicación de la <documentación del desarrollo> y el <compendio>
+
+El Indice queda en digital ya que en físico es muy agotador, lo mismo para el glosario (Así recavamos los sinonimos y antonimos también)
+
+-
+
+El indica va a quedar desechado dejandonos con 2 denominadores relacionados: Documentación y Compendio (Puesto que ambos se relacionan de manera
+dinamica con respecto a: Temas y Subtemas
+
+Esto conlleva la creación de la carpeta "Outdated"
+
+-
+
+Documentación revamp: En su conjunto ha llevado el cambio en 'Temario definitivo', 'Documentación del desarrollo' y 'Compendio'. Recomiendo ver cada
+una de las carpetas para entenderlo mejor
+
+29/1/25 cambios realizados: Compendio converge con Temario Definitivo y va a 'outdated' así como ha pasado con la carpeta de 'indice'. El proceso
+habitual es: Desarrollo (Cuaderno) > Simultaneadad de glosario, documentación, temario definitivo > Desarrollo (fotos) + Códice.
+
+-
+
+12/2/25 Se ha hecho un cambio en el desarrollo que implica varios aspectos pero con esto se finaliza el método de estudio hasta la siguiente actualiza-
+ción.

@@ -1,0 +1,4 @@
+Usualmente anuncia algo importante, puede ser abreviado pero es usualmente corto y se lee después de leer el *elemento* en sí. En sí, trae novedades o
+cambios o la anunciación de novedades y cambios que están desarrollados en otra parte (o en la misma actualización).
+
+Se acopla a los artificios de 'contuinidad' y 'sucesión-secuencia' porque siempre van a formar parte del indice (para mantener el orden)

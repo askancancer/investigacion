@@ -1,0 +1,2 @@
+1: El original, consta de 5 carpetas y las más importantes son el Desarrollo y la Documentación. Digamos que en esencia, es lo que hemos rescatado
+del aprendizaje real (Hasta la raíz, sintetizar y practicar).

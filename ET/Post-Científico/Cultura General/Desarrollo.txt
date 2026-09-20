@@ -1,0 +1,24 @@
+Cultura general o General knowledge: General knowledge is information that has been accumulated over time through various media and sources. 
+It excludes specialized learning that can only be obtained with extensive training and information confined to a single medium. General knowledge is an 
+essential component of crystallized intelligence. It is strongly associated with general intelligence and with openness to experience.
+
+Entonces estamos entre clasificar la cultura general entre científica o técnica... pero he decidido solamente aislarlo en <Estudio técnico> puesto que
+es un tanto redundante dividirlo (para fines prácticos) porque los datos de aquí son meramente técnicos y si queremos especializarnos capaz que podemos
+desarrollarlos como extensión o "adición" a las <reales carpetas>... Ejm: en la carpeta Psicología tenemos un video sobre desordenes mentales que obvio,
+pertenece a la "Psicología" la cual por supuesto está en Estudio científico como <semi uni> y aunque el propio video es un tanto de satira o no algo
+que se tenga que tomar enserio, podemos tanto referenciar o ayudarnos desde el propio video o en el desarrollo de la "Psicología" en <semi uni>...
+Es por ello que va en técnico y solamente en técnico ya que no podemos esperar un beneficio muy fuerte o significativo.
+
+Y CREO QUE LA PARTE MÁS IMPORTANTE ES QUE AQUÍ VA MATERIAL QUE PUES SU DESARROLLO PRINCIPAL ESTÁ EN OTROS LARES, O SEA, ESTE ES MÁS COMO UN ADITIVO NO
+NECESARIAMENTE ADYACENTE *COMO EN EL EJEMPLO ANTERIOR*, es por eso que no encontramos carpetas como orientación, universidades de lima, etc en cultura
+general.
+
+--- A continuación tenemos las carpetas que van a relevar cierto "tema".
+
+Psicología (generalizado)
+Química
+Sociedad
+Física
+Química/Física (generalizado)
+
+Cada carpeta tiene un desarrollo y un registro.

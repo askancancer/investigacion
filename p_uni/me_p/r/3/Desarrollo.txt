@@ -1,0 +1,10 @@
+Desplegamos la 'lista de operaciones' para enumerar los objetos circundantes con un concepto adyacente (excepto para 1. y 2. porque ese mismo
+concepto adyacente está en la 'introducción).
+
+Ahora, con el concepto entre manos; no es que nos de mucho indicio de como operar exactamente con respecto a 1. y 2. ... Por el momento, solamente
+nos queda hacer las cosas con 1. y lo que salga hasta nuevas actualizaciones.
+
+-
+
+Introducimos la carpeta "Movimientos" debido a que queremos mapear o simplemente documentar ciertos aspectos o tropos que pueden ser recurrentes
+o específicos (Más info en la misma carpeta). Esto es experimental, valga la redudancia.

@@ -1,0 +1,16 @@
+Colidir: Usualmente se aplica con carpetas que estén en el mismo rango, se refiere a una conexión o desarrollo que implica varias características en
+común entre esas (2) carpetas pero la más notoria y la más probable es que su desarrollo/operar sea el mismo (Ej de las carpetas del protocolo, 4 y 5)
+
+También se puede dar como 2 en 1 o 1 en 2. Como dije, usualmente es con carpetas que estén en el mismo rango pero siempre está la posibilidad de 
+lugares distintos, no solamente desarrollo igual; si no ciertas operaciones equivalentes o algo que valga la pena para colidirlas.
+
+-
+
+Condiciones: 1. 2 carpetas (del mismo rango/misma contención o de diferente rango/diferentes lugares) requieran ambas una conexión 
+
+-
+
+La diferencia entre esto mismo y los anexos? Que las colisiones tiene más que ver con respecto a las 'relaciones entre extensiones' en primer lugar.
+ Es probable que se desarrolle más a fondo este mismo razonamiento a futuro.
+
+Recomendable usar word para resaltar las direcciones con diferente color y así diferenciar.

@@ -1,0 +1,38 @@
+No vamos a generalizar y poner teoría y práctica tal ya que depende de lo que estemos tratando, es más... Pueden caber ciertos libros universitarios y
+ya decides si es teoría o no pero se va a crear una carpeta adicional llamada: Material arbitrario y el cual puede ser tanto <teoría> o <práctica> pero
+pertenece más al ambito universitario y no va a ser coloca en otra carpeta que no sea esa por una cuestión de orden. Esto tanto para matemáticas como
+letras.
+
+Y con respecto al material se va a hacer un anexo dirigido a esta misma carpeta con una ruta similar en el disco de almacenamiento y en la carpeta
+de Almacenamiento de <Operaciones>. De manera similar se va a hacer con material universitario aunque más como un prototipo ya que esa parte no está
+tan desarrollada y no tenemos conocimiento profundo sobre ello.
+
+Ahora en cada carpeta <teoría> y <práctica>, en las 2 ubicamos 3 carpetas más para clasificar: principal, secundario y misc.
+
+Principal: Básicamente las carpetas de esta contienen material de estudio de editoriales o entidades aclamadas por la comunidad (Aunque eso no los hace
+necesariamente muy bueno, como es el caso de CONAMAT) porque también influye la calidad según nuestro criterio pero también la de otras personas. He de
+decir que se le va a ubicar una documentación para registrar ya que es más importante.
+
+Secundario: Las carpetas de esta contienen material que puede ser igual o mejor reconocido/aclamado por la comunidad que ciertos materiales en carpetas
+<principales> pero la diferencia es que en calidad siempre se va a ver opacado por las carpetas <principales> y eso lo podemos detectar bajo nuestro
+criterio o también la de otras personas.
+
+Misc: La calidad puede ser buena o mala así como su reconocimiento pero no va a el dessarrollo del tema (Usualmente)... Así que pasa de larga pero por
+temas de preservación es necesario.
+
+-
+
+Reforma: Al texto añadido se le va a aplicar no solo a principal pero también a secundario y misc (de ser necesario) y con información añadida para variar.
+También con respecto a Matemáticas y Humanidades quizás te topes con formularios o materiales que abarcan diversos temas ya sean de teoría o práctica
+entonces con en tal caso tanto en Mat como Hum se va a añadir una carpeta llamada (Alternado) el cual puede ser tanto teoría como práctica pero también
+puedes añadir un texto para información si deseas.
+
+2: En Matemática vamos a añadir 2 temas adicionales: Estadística y Lógica por razones de abarcar y acaparar carpetas (También por orden si se llegan a
+acercar carpetas)
+
+-
+
+En cuanto a las academias pues tenemos este dilema y he decidido que se va a hacer una carpeta aparte con ellas (organizado) incluyendo a las de centro
+preuniversitario porque en la praxis vamos a demorar y además es innecesario extenderlo a carpetas con editoriales... La diferencia es que no va a tener
+Teoría o práctica porque en su lugar va a tener sus respectivas organizaciones OG (tal cual lo hacen los administradores de las susodichas academias/
+centro de estudio)... Eso implica que se cree una carpeta llamada "Academias" compartiendo el mismo nivel que Mat y Hum

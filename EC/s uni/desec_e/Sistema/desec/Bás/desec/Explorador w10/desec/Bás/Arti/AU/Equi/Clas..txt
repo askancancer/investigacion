@@ -1,0 +1,15 @@
+Clasificación de ciertas equivalencias según el uso: Equi. totales y equi. parciales
+
+Totales: Las que poseen una propiedad de omnipotencia en relación a todas las extensiones, incluso si no se llegan a usar, llegan a ser 'potencialmente
+totales' en tal caso.
+
+Parciales: Como su nombre lo dicen, una cierta cantidad (pero no la totalidad) de extensiones usa dichas equivalencias
+
+-
+
+Clasificación de ciertos signos según la trascendencia (meta): Signos principales y secundarios
+
+Principales: Se encargan de hacer funcionar el artificio 'Equivalencias' en sí, en ciertos aspectos como la documentación, diferenciación o otras
+situaciones como el funcionamiento.
+
+Secundarios: Se encargan de las equivalencias en sí, más específicamente en las palabras/abreviaturas que se usan.

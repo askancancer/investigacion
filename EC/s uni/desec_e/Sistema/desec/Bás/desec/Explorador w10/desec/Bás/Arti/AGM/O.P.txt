@@ -1,0 +1,9 @@
+Omnipresencia (desfasado): La primera vez se creo cuando se dispuso poner la carpeta "Extensión huesped" a todas las extensiones pero con ciertos
+cambios... De
+eso se trata dicha propiedad, que ciertas carpetas se vean reflejadas (con cambios nulos, parciales o totales) en otros dispositivos de almacenamiento
+(Esto es más orientado a las extensiones).
+
+Ahora mismo en la carpeta "Operaciones" hemos creado algo llamado 'Carpetas omnipresentes' que refleja esta misma propiedad (No solamente
+con los moldes)
+
+Condiciones: No posee ninguna por la propiedad
